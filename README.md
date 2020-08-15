@@ -8,6 +8,10 @@ Word-Guess is a command-line game using constructor functions.
 
 Once you start the app, start typing to begin guessing the word.
 
+```
+$ node index.js
+```
+
 ## Node Packages Used
 
 * https://www.npmjs.com/package/inquirer
