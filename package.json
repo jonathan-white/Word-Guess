@@ -1,5 +1,5 @@
 {
-  "name": "Word-Guess",
+  "name": "word-guess",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^5.2.0"
+    "inquirer": "^7.3.3"
   }
 }
